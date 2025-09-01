@@ -2,6 +2,8 @@
 
 This project is a functional, visually appealing, and interactive website for kids, built with HTML, CSS, and JavaScript.
 
+The site is automatically deployed to GitHub Pages whenever changes are pushed to the `main` branch.
+
 ## How it Works
 
 The site's branding and content are dynamically loaded from JSON files:
