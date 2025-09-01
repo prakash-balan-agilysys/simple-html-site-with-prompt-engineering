@@ -1,0 +1,31 @@
+{
+    "siteTitle": "Kids Gaming World",
+    "tagline": "Discover, Play, and Learn!",
+    "countdownTarget": "2025-12-31T23:59:59",
+    "games": [
+        {
+            "id": 1,
+            "name": "Math Whiz",
+            "description": "A fun game to improve your math skills.",
+            "thumb": "assets/images/math-whiz.png",
+            "difficulty": "easy",
+            "url": "#"
+        },
+        {
+            "id": 2,
+            "name": "Word Finder",
+            "description": "Find hidden words in a grid of letters.",
+            "thumb": "assets/images/word-finder.png",
+            "difficulty": "medium",
+            "url": "#"
+        },
+        {
+            "id": 3,
+            "name": "Puzzle Master",
+            "description": "Solve fun and challenging puzzles.",
+            "thumb": "assets/images/puzzle-master.png",
+            "difficulty": "hard",
+            "url": "#"
+        }
+    ]
+}
