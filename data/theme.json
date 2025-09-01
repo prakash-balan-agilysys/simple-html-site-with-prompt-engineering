@@ -1,0 +1,12 @@
+{
+    "colors": {
+        "primary": "#FFDF00",
+        "accent": "#004040",
+        "background": "#FFFFFF",
+        "text": "#333333"
+    },
+    "font": {
+        "family": "Arial, sans-serif",
+        "size": "16px"
+    }
+}
